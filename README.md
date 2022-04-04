@@ -12,3 +12,9 @@ The main objective of this study is to design and develop an AI/ML integrated Ag
  > To develop a machine-learning-based algorithm that can detect the presence of an outbreak or hotspot through multiple factors. 
 
 Each one of the objectives were successfully tackled, and given solutions
+
+Folders
+
+>IotracerWebApp - Frontend
+>Thesis - Backend
+>db - Database and Sql File
