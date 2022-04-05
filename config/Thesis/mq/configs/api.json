@@ -1,0 +1,4 @@
+{
+    "appBaseUrl": "http://localhost:4000",
+    "mqBaseUrl": "amqp://localhost"
+}
